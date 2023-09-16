@@ -1,0 +1,17 @@
+---
+object: set
+id: 8571b7e5-3c24-4a26-a936-31549a18a2c3
+code: pal01
+name: Arena League 2001
+uri: https://api.scryfall.com/sets/8571b7e5-3c24-4a26-a936-31549a18a2c3
+scryfall_uri: https://scryfall.com/sets/pal01
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apal01&unique=prints
+released_at: '2001-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: parl
+block: Arena League
+icon_svg_uri: https://svgs.scryfall.io/sets/parl2.svg?1694404800
